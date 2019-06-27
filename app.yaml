@@ -1,0 +1,7 @@
+runtime: go111
+service: line-notify-from-trello
+
+env_variables:
+  LINE_TOKEN: ''
+  TRELLO_LIST_ID: ''
+  TRELLO_TOKEN: ''
